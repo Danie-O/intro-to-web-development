@@ -1,8 +1,8 @@
 # intro-to-web-development
-This repository contains course content and exercises from a course I am currently taking on Web Development.
+This repository contains solutions to exercises and mini-projects from a course I am currently taking on Web Development.
 It is perfect for a beginner or intermediate web developer to follow along, or get inspiration for personal projects.
 
-This repo would be split into the following sections to allow for easy navigation and segmentation of concepts;
+This repo covers the following concepts;
 
 ### Front-End Web Development:
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></a><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" /></a><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" /></a><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>
